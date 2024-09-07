@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thai</h1>
 <h3 align="center">I would like to become a full-stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaiyud&label=Profile%20views&color=0e75b6&style=flat" alt="thaiyud" /> </p>
 
 - 🔭 I’m currently working on **TimeShare Sale System project**
 
